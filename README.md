@@ -2,7 +2,7 @@
 
 Simple Python snake game using pygame library
 
-![snakepie](./images/snakepie.mp4)
+![snakepie](./images/snakepie.gif)
 
 ## Keybinding
 
