@@ -2,7 +2,9 @@
 
 Simple Python snake game using pygame library
 
-![snakepie](./images/snakepie.mp4)
+<video width="640" height="480" controls>
+  <source src="./images/snakepie.mp4" type="video/mp4">
+</video>
 
 ## Keybinding
 
@@ -28,7 +30,7 @@ pip install pygame
 clone the repo and run with `python`
 
 ```bash
-git clone git@github.com:SureshAmal/snakepie.git
+git clone https://github.com/SureshAmal/snakepie.git
 cd snakepie
 python main.py
 ```
