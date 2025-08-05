@@ -2,9 +2,7 @@
 
 Simple Python snake game using pygame library
 
-<video width="640" height="480" controls>
-  <source src="./images/snakepie.mp4" type="video/mp4">
-</video>
+![snakepie](./images/snakepie.mp4)
 
 ## Keybinding
 
