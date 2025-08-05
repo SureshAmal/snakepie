@@ -10,7 +10,7 @@ Simple Python snake game using pygame library
 - `a`,`w`,`s`,`d`
 - and for vim user `h`,`j`,`k`,`l`
 - q for quit application
-- space for pause game#
+- space for pause game
 
 ## How to install SnakePie
 
