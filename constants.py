@@ -1,0 +1,31 @@
+import pygame
+
+WIDTH, HEIGHT = 1000, 900
+MIN_WIDTH, MIN_HEIGHT = 500, 400
+
+SNAKE_COLOR = (0, 255, 0)
+HEAD_COLOR = (0, 255, 0)
+FOOD_COLOR = (255, 0, 0)
+
+BG_COLOR_START = (20, 20, 40)
+BG_COLOR_END = (40, 40, 80)
+
+TEXT_COLOR = (255, 255, 255)
+ACCENT_COLOR = (0, 180, 255)
+ERROR_COLOR = (255, 80, 80)
+
+BUTTON_DEFAULT_COLOR = (60, 60, 100)
+BUTTON_HOVER_COLOR = (80, 80, 120)
+BUTTON_BORDER_COLOR = (120, 120, 160)
+FOCUSED_BORDER_COLOR = (100, 255, 100)
+
+INPUT_BOX_BG_COLOR = (40, 40, 70)
+INPUT_BOX_BORDER_ACTIVE_COLOR = ACCENT_COLOR
+INPUT_BOX_BORDER_INACTIVE_COLOR = (80, 80, 120)
+
+
+pygame.font.init()
+font = pygame.font.Font(None, 36)
+big_font = pygame.font.Font(None, 48)
+medium_font = pygame.font.Font(None, 28)
+smaller_font = pygame.font.Font(None, 24)
